@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/geocrane/geocrane/blob/main/github-header-image.png" height='200'></p>
+<p align="center"><img src="https://github.com/geocrane/geocrane/blob/main/github-header-image-light.png" height='200'></p>
 <p align="center">Skills: Python3 / Django / REST  API / HTML / CSS</p>
 
 CONTACTS:
