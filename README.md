@@ -1,6 +1,4 @@
-<h1 align="center">Привет всем, я Sergey (geocrane)</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Разработчик на Python</h3>
+<img src="https://github.com/geocrane/geocrane/blob/main/github-header-image(1).png" height="32"/></h1>
 
 #### Разработчик на языке Python
 ![Разработчик на языке Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
