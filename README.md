@@ -1,4 +1,4 @@
-<img src="https://github.com/geocrane/geocrane/blob/main/github-header-image(1).png" height="32"/></h1>
+<img src="https://github.com/geocrane/geocrane/blob/main/github-header-image(1).png">
 
 #### Разработчик на языке Python
 ![Разработчик на языке Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
