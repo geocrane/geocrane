@@ -1,19 +1,24 @@
 <h1 align="center">Привет всем, я Sergey (geocrane)</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geocrane)](https://github.com/anuraghazra/github-readme-stats)
-[GitHub Streak](https://streak-stats.demolab.com/?user=geocrane)](https://git.io/streak-stats)
-<!--
-**geocrane/geocrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Разработчик на Python</h3>
 
-Here are some ideas to get you started:
+#### Разработчик на языке Python
+![Разработчик на языке Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Python3 / Django / REST  API / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geocrane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@studio55rnd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+7 950 848 10 25)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geocrane)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geocrane&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=geocrane)  
+
+![GitHub metrics](https://metrics.lecoq.io/geocrane)  
+
