@@ -1,8 +1,7 @@
 <p align="center"><img src="https://github.com/geocrane/geocrane/blob/main/github-header-image-new.png" height='200'></p>
-<p align="center">Skills: Python3 / Django / REST  API / HTML / CSS / Bootstrap / SQLite 3 / PostgreSQL / unittest / nginx / Docker / Linux</p>
+<p align="center">Python3 / Django / REST  API / HTML / CSS / Bootstrap / SQLite 3 / PostgreSQL / unittest / nginx / Docker / Linux</p>
 
-MY PROJECTS:
-
+PROJECTS:
 - [PhotoTube](https://github.com/geocrane/phototube) - Django
 - [API for PhotoTube](https://github.com/geocrane/api_phototube) - Django REST franework
 - [YAMDB](https://github.com/geocrane/api_yamdb) - Django REST framework
