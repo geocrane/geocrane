@@ -6,7 +6,6 @@ PROJECTS:
 - [API for PhotoTube](https://github.com/geocrane/api_phototube) - Django REST franework
 - [YAMDB](https://github.com/geocrane/api_yamdb) - Django REST framework
 - [HomeWork bot](https://github.com/geocrane/homework_bot) - Python3
-- (в разработке)[BeautyBoom](https://github.com/geocrane/beautyboom) - Django
 
 
 CONTACTS:  
