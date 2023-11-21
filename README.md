@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/geocrane/geocrane/blob/main/github-header-image-new.png" height='200'></p>
-<p align="center">Python3 / Django / REST  API / HTML / CSS / Bootstrap / SQLite 3 / PostgreSQL / unittest / nginx / Docker / Linux</p>
+<p align="center">Python3 / Django / REST  API / Vue.js / Bootstrap / SQLite 3 / PostgreSQL / unittest / nginx / Docker / Linux</p>
 <p align="center">Selenuim / BeautifulSoup / Natural Language Processsing / Transformers / Pandas </p>
 
 PROJECTS:
